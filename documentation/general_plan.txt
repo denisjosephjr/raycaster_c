@@ -1,0 +1,5 @@
+Learn SDL2, display basic images
+
+Learn Raycasting Logic
+
+Bridge the gap
