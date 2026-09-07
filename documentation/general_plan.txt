@@ -1,4 +1,6 @@
 Learn SDL2, display basic images
+    Use Lazy Foo's guide
+
 
 Learn Raycasting Logic
 
