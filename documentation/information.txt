@@ -1,3 +1,5 @@
+Context and Setup
+=================
 Using the SDL3 (Simple DirectMedia Layer) Library. Version 3.4.14 for MinGW.
 
 Link to releases: https://github.com/libsdl-org/SDL/releases
@@ -5,6 +7,15 @@ Link to releases: https://github.com/libsdl-org/SDL/releases
 Navigated to prefered version and downloaded the .zip for MinGW: SDL3-devel-3.4.14-mingw.zip.
 
 Extracted the file with WinRAR and put the SDL3-3.4.14 directory in lib/
+-------------------------
+**Write Test Code for SDL
+      Explain more.
+
+(bin/ stands for binaries)
+
+Copy SDL3.dll to root. It is needed there in order to run.
+
+Create build.sh so compiling and running isn't a pain.
 
 ---------------------------------------------------------------------------------
 
