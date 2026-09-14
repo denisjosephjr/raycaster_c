@@ -1,7 +1,8 @@
 Broad
 =====
+Configure Environment Variable, Path
 
-Learn SDL2, display basic images
+Learn SDL3, display basic images
     Use Lazy Foo's guide
 
 Learn Raycasting Logic
@@ -12,4 +13,4 @@ Bridge the gap
 
 NEXT
 ====
-Configure Environment Variable, Path
+Learn about MINGW and MSYS2

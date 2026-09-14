@@ -1,0 +1,21 @@
+Using the SDL3 (Simple DirectMedia Layer) Library. Version 3.4.14 for MinGW.
+
+Link to releases: https://github.com/libsdl-org/SDL/releases
+
+Navigated to prefered version and downloaded the .zip for MinGW: SDL3-devel-3.4.14-mingw.zip.
+
+Extracted the file with WinRAR and put the SDL3-3.4.14 directory in lib/
+
+---------------------------------------------------------------------------------
+
+MinGW: Minimalist GNU for Windows a port of GCC for Windows
+    GNU: GNU is Not Unit (Recursive Acronymn)
+    GCC: GNU Compiler collection
+
+MINGW64, relation to Git Bash and MSYS2
+
+
+Environment Variables
+    Path.
+
+

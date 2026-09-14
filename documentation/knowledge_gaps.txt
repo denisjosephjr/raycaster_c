@@ -1,9 +1,0 @@
-MINGW64, relation to Git Bash and MinSYS2
-
-tar and tar.gz files
-
-Environment Variables
-
-Hidden BASH and Git Config files
-
-When installing MSYS2, it installs multiple shells
